@@ -7,7 +7,9 @@ convert the pdf into a csv file with the following columns:
 date,name,type,time,description
 
 date is in the form 2000-01-01
-name is the official name of the holiday
+name is the official name of the holiday. When the name in the pdf is composed of a date (such as 1. Mai, 1. August, 24. Dezember), replace it with the actual name of the holiday in german, based on your knowledge.
 type can contain "Full day", "Half day", or "Quarter day"
 time should contain "morning" or "afternoon", based on your knowledge of when the holiday takes place. Leave this column empty if it is a full-day holiday.
 description should contain a brief description of the holiday
+
+name the file `zurich_holidays_<year>.csv`, replacing <year> with the actual year.

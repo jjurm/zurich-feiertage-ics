@@ -1,17 +1,17 @@
 date,name,type,time,description
-2024-01-01,Neujahrstag,Full day,,"New Year's Day, marking the start of the year."
-2024-01-02,Berchtoldstag,Full day,,A traditional Swiss holiday celebrated after New Year's Day.
-2024-03-28,Tag vor Karfreitag,Quarter day,morning,Day before Good Friday.
-2024-03-29,Karfreitag,Full day,,"Good Friday, a Christian holiday commemorating the crucifixion of Jesus."
-2024-04-01,Ostermontag,Full day,,"Easter Monday, a Christian holiday celebrated after Easter Sunday."
-2024-04-15,Sechseläuten,Half day,afternoon,Traditional spring festival in Zurich.
-2024-05-01,1. Mai,Full day,,"Labour Day, celebrating workers' rights."
-2024-05-08,Tag vor Auffahrt,Quarter day,morning,Day before Ascension Day.
-2024-05-09,Auffahrtstag,Full day,,"Ascension Day, commemorating the ascension of Jesus into heaven."
-2024-05-20,Pfingstmontag,Full day,,"Whit Monday, celebrated the day after Pentecost."
-2024-08-01,1. August,Full day,,Swiss National Day.
-2024-09-09,Knabenschiessen,Half day,afternoon,Traditional Zurich festival featuring a shooting contest.
-2024-12-24,24. Dezember,Half day,afternoon,Christmas Eve.
+2024-01-01,Neujahrstag,Full day,,"New Year's Day, celebrating the start of the new year."
+2024-01-02,Berchtoldstag,Full day,,"Berchtold's Day, a traditional Swiss holiday."
+2024-03-28,Tag vor Karfreitag,Quarter day,morning,The day before Good Friday.
+2024-03-29,Karfreitag,Full day,,"Good Friday, commemorating the crucifixion of Jesus."
+2024-04-01,Ostermontag,Full day,,"Easter Monday, a public holiday after Easter Sunday."
+2024-04-15,Sechseläuten,Half day,afternoon,Spring festival in Zurich.
+2024-05-01,Tag der Arbeit,Full day,,"Labor Day, celebrating workers' rights."
+2024-05-08,Tag vor Auffahrt,Quarter day,morning,The day before Ascension Day.
+2024-05-09,Auffahrtstag,Full day,,"Ascension Day, commemorating the ascension of Jesus to heaven."
+2024-05-20,Pfingstmontag,Full day,,"Whit Monday, a Christian holiday following Pentecost."
+2024-08-01,Bundesfeiertag,Full day,,"Swiss National Day, celebrating the foundation of Switzerland."
+2024-09-09,Knabenschiessen,Half day,afternoon,Traditional shooting competition for young people in Zurich.
+2024-12-24,Heiligabend,Half day,afternoon,"Christmas Eve, the evening before Christmas Day."
 2024-12-25,Weihnachtstag,Full day,,"Christmas Day, celebrating the birth of Jesus."
-2024-12-26,Stephanstag,Full day,,St. Stephen's Day.
-2024-12-31,Silvester,Quarter day,morning,"New Year's Eve, marking the end of the year."
+2024-12-26,Stephanstag,Full day,,"St. Stephen's Day, a Christian holiday."
+2024-12-31,Silvester,Quarter day,morning,"New Year's Eve, the last day of the year."
