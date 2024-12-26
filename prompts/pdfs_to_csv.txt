@@ -1,0 +1,13 @@
+the attached PDF contains public holidays in zurich.
+Holidays can be categorised as follows:
+- full-day (arbeitszeit 0:00)
+- half-day (arbeitszeit 4:12)
+- quarter day (arbeitszeit 6:00)
+convert the pdf into a csv file with the following columns:
+date,name,type,time,description
+
+date is in the form 2000-01-01
+name is the official name of the holiday
+type can contain "Full day", "Half day", or "Quarter day"
+time should contain "morning" or "afternoon", based on your knowledge of when the holiday takes place. Leave this column empty if it is a full-day holiday.
+description should contain a brief description of the holiday

@@ -1,0 +1,15 @@
+[project]
+authors = ["Juraj Mičko <micko.juraj64@gmail.com>"]
+channels = ["conda-forge"]
+name = "zurich-feiertage-ics"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pixi-pycharm = ">=0.0.8,<0.0.9"
+pandas = ">=2.2.3,<3"
+
+[pypi-dependencies]
+ics = ">=0.7.2, <0.8"
