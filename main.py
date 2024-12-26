@@ -29,7 +29,7 @@ for _, row in holidays_df.iterrows():
     # Add type-specific details to the event title and description
     if row['type'] == "Half day":
         event.name += " (Half Day)"
-        event.description = "Half Day holiday.\nn" + row['description']
+        event.description = "Half Day holiday.\n\n" + row['description']
     elif row['type'] == "Quarter day":
         event.name += " (Quarter Day)"
         event.description = "Quarter Day holiday.\n\n" + row['description']
