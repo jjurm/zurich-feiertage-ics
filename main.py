@@ -12,7 +12,7 @@ from icalendar import Calendar, Event
 
 # Load the CSV files
 assets_dir = Path("assets")
-csv_files = [assets_dir / f"zurich_holidays_{year}.csv" for year in [2024, 2025, 2026]]
+csv_files = sorted(assets_dir.glob("zurich_holidays_*.csv"))
 
 holidays_df = pl.concat(
     [pl.read_csv(csv_file) for csv_file in csv_files],
