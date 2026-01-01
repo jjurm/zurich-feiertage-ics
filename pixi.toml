@@ -6,10 +6,9 @@ platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+generate-ics = "python main.py"
 
 [dependencies]
 pixi-pycharm = ">=0.0.8,<0.0.9"
-pandas = ">=2.2.3,<3"
-
-[pypi-dependencies]
-ics = ">=0.7.2, <0.8"
+polars = ">=1.0.0,<2"
+icalendar = ">=6.3.2,<7"
