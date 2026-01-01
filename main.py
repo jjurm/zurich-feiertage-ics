@@ -4,7 +4,7 @@ from ics import Calendar, Event
 from datetime import datetime
 import pandas as pd
 
-# Take PDFs from
+# Take PDFs from the 'Feiertage' section of
 # https://www.zh.ch/de/arbeiten-beim-kanton/rund-um-die-arbeitszeit.html
 # and convert them to CSVs using prompts/pdfs_to_csv.txt
 
@@ -12,7 +12,7 @@ import pandas as pd
 assets_dir = Path("assets")
 csv_files = [
     assets_dir / f"zurich_holidays_{year}.csv"
-    for year in [2024, 2025]
+    for year in [2024, 2025, 2026]
 ]
 holidays_df = pd.concat(
     pd.read_csv(csv_file) for csv_file in csv_files
