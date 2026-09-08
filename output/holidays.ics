@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Neujahrstag
 DTSTART;VALUE=DATE:20240101
 DTEND;VALUE=DATE:20240102
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:3035607f-b9d1-5e96-b2f1-5e7aef4a8da4@zurich-feiertage-ics
 DESCRIPTION:New Year's Day\, celebrating the start of the new year.
 END:VEVENT
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Berchtoldstag
 DTSTART;VALUE=DATE:20240102
 DTEND;VALUE=DATE:20240103
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:ee43e949-925b-596a-9357-a62c10a50e4f@zurich-feiertage-ics
 DESCRIPTION:Berchtold's Day\, a traditional Swiss holiday.
 END:VEVENT
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Karfreitag (Quarter Day)
 DTSTART;VALUE=DATE:20240328
 DTEND;VALUE=DATE:20240329
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:a524a9b1-ece3-5530-8884-fb35aa5d93d5@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nThe day before Good Friday.
 END:VEVENT
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART;VALUE=DATE:20240329
 DTEND;VALUE=DATE:20240330
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:0744140f-6c40-5747-88d2-15c12b3a6450@zurich-feiertage-ics
 DESCRIPTION:Good Friday\, commemorating the crucifixion of Jesus.
 END:VEVENT
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART;VALUE=DATE:20240401
 DTEND;VALUE=DATE:20240402
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:72969a33-714d-5e74-b29c-ed9520296585@zurich-feiertage-ics
 DESCRIPTION:Easter Monday\, a public holiday after Easter Sunday.
 END:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Sechseläuten (Half Day)
 DTSTART;VALUE=DATE:20240415
 DTEND;VALUE=DATE:20240416
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:45e20a65-4ca1-5c96-aaf0-11e472ec6891@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nSpring festival in Zurich.
 END:VEVENT
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Tag der Arbeit
 DTSTART;VALUE=DATE:20240501
 DTEND;VALUE=DATE:20240502
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:8dc79739-1455-5edf-a3ce-e19907d76d80@zurich-feiertage-ics
 DESCRIPTION:Labor Day\, celebrating workers' rights.
 END:VEVENT
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Auffahrt (Quarter Day)
 DTSTART;VALUE=DATE:20240508
 DTEND;VALUE=DATE:20240509
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:ebaee530-71ad-5fdf-8f67-0827bd6f9a1c@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nThe day before Ascension Day.
 END:VEVENT
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Auffahrtstag
 DTSTART;VALUE=DATE:20240509
 DTEND;VALUE=DATE:20240510
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:2a0fd2b8-1c97-580b-923c-571e0f22b838@zurich-feiertage-ics
 DESCRIPTION:Ascension Day\, commemorating the ascension of Jesus to heaven
  .
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART;VALUE=DATE:20240520
 DTEND;VALUE=DATE:20240521
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:23b76c0d-75b1-5449-b120-67d3a40b9c0b@zurich-feiertage-ics
 DESCRIPTION:Whit Monday\, a Christian holiday following Pentecost.
 END:VEVENT
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Bundesfeiertag
 DTSTART;VALUE=DATE:20240801
 DTEND;VALUE=DATE:20240802
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:a0fa5a68-fb0f-5d2b-9565-db91ce6fc59c@zurich-feiertage-ics
 DESCRIPTION:Swiss National Day\, celebrating the foundation of Switzerland
  .
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Knabenschiessen (Half Day)
 DTSTART;VALUE=DATE:20240909
 DTEND;VALUE=DATE:20240910
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:358219f4-af87-5ffc-8629-5e551d246d52@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nTraditional shooting competition for youn
  g people in Zurich.
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Heiligabend (Half Day)
 DTSTART;VALUE=DATE:20241224
 DTEND;VALUE=DATE:20241225
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:5064766b-4615-5969-b49f-dab8414f918c@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nChristmas Eve\, the evening before Christ
  mas Day.
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtstag
 DTSTART;VALUE=DATE:20241225
 DTEND;VALUE=DATE:20241226
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:0a01c3b4-df81-57de-babf-23222dd39964@zurich-feiertage-ics
 DESCRIPTION:Christmas Day\, celebrating the birth of Jesus.
 END:VEVENT
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Stephanstag
 DTSTART;VALUE=DATE:20241226
 DTEND;VALUE=DATE:20241227
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:c2008660-4894-5322-a890-3631da40caea@zurich-feiertage-ics
 DESCRIPTION:St. Stephen's Day\, a Christian holiday.
 END:VEVENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Silvester (Quarter Day)
 DTSTART;VALUE=DATE:20241231
 DTEND;VALUE=DATE:20250101
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:e04271fd-8f1b-5cc0-b62b-92f71ebb2e6e@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nNew Year's Eve\, the last day of the y
  ear.
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Neujahrstag
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:34c78943-54d1-51a9-a061-06fd25de98eb@zurich-feiertage-ics
 DESCRIPTION:New Year's Day\, the first day of the year.
 END:VEVENT
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Berchtoldstag
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250103
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:cd7f0f6e-fe29-56ad-84bf-c54d5b920e3c@zurich-feiertage-ics
 DESCRIPTION:Traditional Swiss holiday following New Year's Day.
 END:VEVENT
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Karfreitag (Quarter Day)
 DTSTART;VALUE=DATE:20250417
 DTEND;VALUE=DATE:20250418
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:c5195afb-d12c-5b83-abda-6919622fb8b4@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nDay before Good Friday\, observed in t
  he morning.
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250419
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:9e56b214-2e46-5264-8857-603884e355dd@zurich-feiertage-ics
 DESCRIPTION:Good Friday\, commemorating the crucifixion of Jesus.
 END:VEVENT
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:f04e7493-8043-5511-953c-28401911ec5e@zurich-feiertage-ics
 DESCRIPTION:Easter Monday\, the day after Easter Sunday.
 END:VEVENT
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Sechseläuten (Half Day)
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250429
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:7c04e26f-a71c-542a-aba8-81a4981331fd@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nTraditional Zurich spring holiday.
 END:VEVENT
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Tag der Arbeit
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:7d2fae71-97f4-576f-9590-30e6d4e02476@zurich-feiertage-ics
 DESCRIPTION:Labor Day\, celebrating workers' rights.
 END:VEVENT
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Auffahrt (Quarter Day)
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:9abe192d-38fd-5c8d-87a6-b87d805bccbd@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nDay before Ascension Day\, observed in
   the morning.
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Auffahrtstag
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250530
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:4a92e764-633f-5af8-850c-06c258a3a9bf@zurich-feiertage-ics
 DESCRIPTION:Ascension Day\, commemorating Jesus' ascension to heaven.
 END:VEVENT
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART;VALUE=DATE:20250609
 DTEND;VALUE=DATE:20250610
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:f3b80ec3-4a03-59f5-9f90-9efcd15693fe@zurich-feiertage-ics
 DESCRIPTION:Whit Monday\, the day after Pentecost.
 END:VEVENT
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Bundesfeiertag
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:6baeab91-882d-589a-9355-782083995cf1@zurich-feiertage-ics
 DESCRIPTION:Swiss National Day\, celebrating the founding of the Swiss Con
  federacy.
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Knabenschiessen (Half Day)
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:d5c8179a-107a-5844-b254-6550312333b5@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nTraditional Zurich youth shooting contest
  .
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Heiligabend (Half Day)
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251225
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:7ed975be-ce6d-5871-9816-ae5b1a8b9a16@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nChristmas Eve\, marking the evening befor
  e Christmas.
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtstag
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:45d5899d-137f-58b0-97c6-7f72f00d85b3@zurich-feiertage-ics
 DESCRIPTION:Christmas Day\, celebrating the birth of Jesus Christ.
 END:VEVENT
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Stephanstag
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251227
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:e82cfcea-447d-5fc0-9620-f5894e8a2084@zurich-feiertage-ics
 DESCRIPTION:St. Stephen's Day\, honoring Saint Stephen.
 END:VEVENT
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Silvester (Quarter Day)
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:aa84aa31-c9a0-564e-9147-0b792d0ea548@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nNew Year's Eve\, marking the final day
   of the year.
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Neujahrstag
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:f0a6643e-5378-556a-9601-6c5fd26f7677@zurich-feiertage-ics
 DESCRIPTION:New Year’s Day\; the first day of the year.
 END:VEVENT
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Berchtoldstag
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:5c743f79-1d04-5f83-8122-0dbfd5e07ae1@zurich-feiertage-ics
 DESCRIPTION:Swiss holiday observed the day after New Year’s Day\, associ
  ated with traditional Berchtold’s Day customs.
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Karfreitag (Quarter Day)
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:bdd405b3-d407-5281-b4f9-59f6ec29567b@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nThe day before Good Friday\; typically
   an early closing / reduced working time.
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Karfreitag
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:92b49328-f503-5f5b-85e0-1755159ca464@zurich-feiertage-ics
 DESCRIPTION:Good Friday\; Christian holiday commemorating the crucifixion 
  of Jesus.
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Ostermontag
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:a656148b-1f9d-5ba0-b045-9acb4e3e7708@zurich-feiertage-ics
 DESCRIPTION:Easter Monday\; Christian holiday on the day after Easter Sund
  ay.
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Sechseläuten (Half Day)
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:b13216b2-b769-5b2f-aaa6-399960973e61@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nZürich’s spring festival\; afternoon o
  ff is traditionally granted for the parade and the burning of the “Böö
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Tag der Arbeit
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:1c9a8d1e-bf24-52b2-9f37-2085f4ffd659@zurich-feiertage-ics
 DESCRIPTION:Labour Day (May Day)\, celebrating workers’ rights and the l
  abour movement.
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Tag vor Auffahrt (Quarter Day)
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:c7ef4de8-8898-5c47-8510-2eebeaa82adf@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nThe day before Ascension Day\; typical
  ly an early closing / reduced working time.
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Auffahrtstag
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:9949d89f-4985-563e-8eb4-f4dce368dbf9@zurich-feiertage-ics
 DESCRIPTION:Ascension Day\; Christian holiday marking the Ascension of Jes
  us\, 40 days after Easter.
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstmontag
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:551a5ac5-3f62-546b-b7b1-ff02b8ef7c40@zurich-feiertage-ics
 DESCRIPTION:Pentecost Monday (Whit Monday)\; Christian holiday the day aft
  er Pentecost.
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Knabenschiessen (Half Day)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:75e1e14e-bfe1-5b49-a543-05e01d13723c@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nTraditional Zürich festival (youth shoot
  ing competition)\; afternoon off is commonly granted in the city/canton.
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Heiligabend (Half Day)
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:8306b2b2-95a1-596b-85a1-0f72ce154915@zurich-feiertage-ics
 DESCRIPTION:Half Day holiday.\n\nChristmas Eve\; typically observed as an 
  afternoon holiday with reduced working time.
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtstag
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:ba306ef4-d515-5e11-bb20-c670d7a28149@zurich-feiertage-ics
 DESCRIPTION:Christmas Day\; Christian holiday celebrating the birth of Jes
  us.
@@ -391,8 +391,107 @@ BEGIN:VEVENT
 SUMMARY:Silvester (Quarter Day)
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260101T120021Z
+DTSTAMP:20260908T211642Z
 UID:8c5b1855-c1a3-5d13-9f16-2c6f5019f863@zurich-feiertage-ics
+DESCRIPTION:Quarter Day holiday.\n\nNew Year’s Eve\; typically an early 
+ closing / reduced working time.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrstag
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260908T211642Z
+UID:900eab17-dffc-504d-838a-a957ff825e90@zurich-feiertage-ics
+DESCRIPTION:New Year’s Day\; the first day of the year.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag vor Karfreitag (Quarter Day)
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260908T211642Z
+UID:85bf1497-127c-5a90-a325-8e801d44acf9@zurich-feiertage-ics
+DESCRIPTION:Quarter Day holiday.\n\nThe day before Good Friday\; typically
+  an early closing / reduced working time.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260908T211642Z
+UID:1bee5169-1148-59f9-b015-1b77bb431829@zurich-feiertage-ics
+DESCRIPTION:Good Friday\; Christian holiday commemorating the crucifixion 
+ of Jesus.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260908T211642Z
+UID:87e8c0b2-e432-5617-aae2-176a6d1314ba@zurich-feiertage-ics
+DESCRIPTION:Easter Monday\; Christian holiday on the day after Easter Sund
+ ay.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechseläuten (Half Day)
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+DTSTAMP:20260908T211642Z
+UID:8929db1c-11ce-578a-8386-4f922d6ee50a@zurich-feiertage-ics
+DESCRIPTION:Half Day holiday.\n\nZürich’s spring festival\; afternoon o
+ ff is traditionally granted for the parade and the burning of the “Böö
+ gg”.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag vor Auffahrt (Quarter Day)
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+DTSTAMP:20260908T211642Z
+UID:72fbd59e-7b43-540f-8594-806ef3ff35e8@zurich-feiertage-ics
+DESCRIPTION:Quarter Day holiday.\n\nThe day before Ascension Day\; typical
+ ly an early closing / reduced working time.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auffahrtstag
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260908T211642Z
+UID:9f6b1d9c-208c-52e6-b60a-91bcc233c971@zurich-feiertage-ics
+DESCRIPTION:Ascension Day\; Christian holiday marking the Ascension of Jes
+ us\, 40 days after Easter.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DTSTAMP:20260908T211642Z
+UID:2dd2d19e-ee0a-57cc-b158-88274d187507@zurich-feiertage-ics
+DESCRIPTION:Pentecost Monday (Whit Monday)\; Christian holiday the day aft
+ er Pentecost.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knabenschiessen (Half Day)
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+DTSTAMP:20260908T211642Z
+UID:94c7d0aa-8d68-5743-9f7b-aa17157e9bb0@zurich-feiertage-ics
+DESCRIPTION:Half Day holiday.\n\nTraditional Zürich festival (youth shoot
+ ing competition)\; afternoon off is commonly granted in the city/canton.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heiligabend (Half Day)
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+DTSTAMP:20260908T211642Z
+UID:b264d974-c009-59de-ae4a-9ee28fe0c9ca@zurich-feiertage-ics
+DESCRIPTION:Half Day holiday.\n\nChristmas Eve\; typically observed as an 
+ afternoon holiday with reduced working time.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silvester (Quarter Day)
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+DTSTAMP:20260908T211642Z
+UID:1a206f06-76cf-5664-8c7e-449ea3b249f8@zurich-feiertage-ics
 DESCRIPTION:Quarter Day holiday.\n\nNew Year’s Eve\; typically an early 
  closing / reduced working time.
 END:VEVENT
