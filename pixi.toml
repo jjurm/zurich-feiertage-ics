@@ -1,4 +1,4 @@
-[project]
+[workspace]
 authors = ["Juraj Mičko <micko.juraj64@gmail.com>"]
 channels = ["conda-forge"]
 name = "zurich-feiertage-ics"
